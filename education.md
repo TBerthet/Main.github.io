@@ -35,7 +35,7 @@ Curious about the full list of courses? Check the [official program page](#) or 
 Seoul, South Korea  
 *September 2024 – January 2025*  
 **Academic Exchange – Applied Statistics and Data Science**  
-**GPA:** 4.06 / 4.3
+**GPA:** 4.06 
 
 **Courses Taken:**  
 - Computer Vision for Data Science  
@@ -55,7 +55,7 @@ Seoul, South Korea
 ### Yonsei International Summer School
 
 *June 2023 – August 2023*  
-**GPA:** 4.30 / 4.3
+**GPA:** 4.30 
 
 **Courses Taken:**  
 - AI & Design  
