@@ -6,10 +6,9 @@ sidebar:
   nav: "main"
 ---
 
-<div style="display: flex; align-items: center; gap: 1rem;">
-  <img src="/pictures/insa_logo.png" alt="INSA Logo" width="50">
-  <h2 style="margin: 0;">INSA Lyon (National Institute of Applied Sciences)</h2>
-</div>
+## INSA Lyon (National Institute of Applied Sciences)
+
+![insa_logo](/pictures/insa_logo.png){: width="240px"}
 
 Lyon, France  
 *September 2022 – August 2025*  
@@ -29,7 +28,9 @@ Curious about the full list of courses? Check the [official program page](#) or 
 
 ---
 
-## <img src="/assets/images/yonsei_logo.png" alt="Yonsei Logo" width="30" style="vertical-align: middle; margin-right: 10px;"> Yonsei University – Exchange Program
+## Yonsei University – Exchange Program
+
+![yonsei_logo](/pictures/yonsei_logo.png){: width="240px"}
 
 Seoul, South Korea  
 *September 2024 – January 2025*  
@@ -53,7 +54,7 @@ Seoul, South Korea
 
 ### Yonsei International Summer School
 
-🗓*June 2023 – August 2023*  
+*June 2023 – August 2023*  
 **GPA:** 4.30 / 4.3
 
 **Courses Taken:**  
