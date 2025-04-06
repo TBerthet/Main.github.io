@@ -13,6 +13,9 @@ minimal_mistakes_skin: "default"
 # Sidebar author profile
 author:
   links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "berthettheopg@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/th%C3%A9o-berthet-91a5a024b/"
