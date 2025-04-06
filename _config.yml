@@ -1,17 +1,30 @@
 title: Théo Berthet
 
-theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
-  - jekyll-include-cache
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-include-cache
 
-# Enable this for sidebar navigation
+# Minimal Mistakes skin (color theme)
 minimal_mistakes_skin: "default"
 
-# Navigation structure
+# Sidebar author profile
+author:
+  name: Your Name
+  avatar: "/assets/images/profile.jpg"
+  bio: "Short one-liner about you"
+  location: "France"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/yourname"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yourhandle"
+
+# Navigation sidebar
 defaults:
   - scope:
       path: ""
@@ -21,17 +34,3 @@ defaults:
       author_profile: true
       sidebar:
         nav: "main"
-        
-# Site author info (shown in sidebar/profile)
-author:
-  name: Your Name
-  avatar: "/assets/images/profile.jpg"
-  bio: "Short 1-line bio here."
-  location: Paris, France
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/yourusername"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/yourusername"
