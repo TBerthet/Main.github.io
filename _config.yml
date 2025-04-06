@@ -1,2 +1,8 @@
 theme: jekyll-theme-minimal
 title: Theo Berthet
+
+navigation:
+  - title: Home
+    url: /
+  - title: Education
+    url: /education
