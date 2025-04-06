@@ -4,4 +4,17 @@ Hi ! Welcome to my website. I am Théo Berthet a final-year student in Bioinform
 
 In this website you can access different aspects of my profile as my educational background, my professional experiences and some projects of mine. Please feel free to look around the different sections.
 
+# Education
 
+# Experiences
+
+# Projects
+
+# Skills
+
+# Languages
+
+# Contact
+
+Mail : [berthettheopg@gmail.com](berthettheopg@gmail.com) 
+Linkedin : [https://www.linkedin.com/in/theo-berthet](https://www.linkedin.com/in/th%C3%A9o-berthet-91a5a024b/)
