@@ -1,4 +1,4 @@
-# Théo Berthet
+# Introduction
 
 Hi ! Welcome to my website. I am Théo Berthet a final-year student in Bioinformatics and Modelling at INSA Lyon. I am currently an intern at L'Oréal company until August.
 
