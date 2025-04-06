@@ -1,8 +1,23 @@
-theme: minimal-mistakes-jekyll
 title: Théo Berthet
 
-navigation:
-  - title: Home
-    url: /
-  - title: Education
-    url: /education.html
+theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Enable this for sidebar navigation
+minimal_mistakes_skin: "default"
+
+# Navigation structure
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "main"
