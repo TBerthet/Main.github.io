@@ -6,9 +6,7 @@ sidebar:
   nav: "main"
 ---
 
-## INSA Lyon (National Institute of Applied Sciences)
-
-![insa_logo](/pictures/insa_logo.png){: width="120px"}
+## INSA Lyon (National Institute of Applied Sciences) ![insa_logo](/pictures/insa_logo.png){: width="120px"}
 
 Lyon, France  
 *September 2022 – August 2025*  
@@ -28,9 +26,7 @@ Curious about the full list of courses? Check the [official program page](#) or 
 
 ---
 
-## Yonsei University – Exchange Program
-
-![yonsei_logo](/pictures/yonsei_logo.png){: width="120px"}
+## Yonsei University – Exchange Program ![yonsei_logo](/pictures/yonsei_logo.png){: width="120px"}
 
 Seoul, South Korea  
 *September 2024 – January 2025*  
@@ -42,7 +38,7 @@ Seoul, South Korea
 - Statistical Pattern Recognition  
 - Quantum Data Science  
 - Functional Genomics  
-- Korean Language (Level 3)
+- Korean Language Beginner (Level 3)
 
 **Projects:**  
 - 
