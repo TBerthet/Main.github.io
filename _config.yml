@@ -12,17 +12,13 @@ minimal_mistakes_skin: "default"
 
 # Sidebar author profile
 author:
-  name: Your Name
-  avatar: "/assets/images/profile.jpg"
-  bio: "Short one-liner about you"
-  location: "France"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/yourname"
+      url: "https://www.linkedin.com/in/th%C3%A9o-berthet-91a5a024b/"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/yourhandle"
+      url: "https://github.com/TBerthet/"
 
 # Navigation sidebar
 defaults:
