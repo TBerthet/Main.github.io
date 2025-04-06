@@ -4,9 +4,7 @@ permalink: /education/
 layout: single
 sidebar:
   nav: "main"
----
-
-# Education 
+--- 
 
 ## INSA Lyon (National Institute of Applied Sciences) 
 
