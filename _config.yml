@@ -23,13 +23,15 @@ author:
       icon: "fab fa-github"
       url: "https://github.com/TBerthet/"
 
-# Navigation sidebar
+sass:
+  style: compressed
+
 defaults:
   - scope:
       path: ""
-      type: "pages"
+      type: "posts"
     values:
       layout: single
       author_profile: true
-      sidebar:
-        nav: "main"
+      read_time: false
+      share: false
