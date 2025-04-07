@@ -2,6 +2,7 @@
 title: "Education"
 permalink: /education/
 layout: single
+classes: wide
 sidebar:
   nav: "main"
 ---
