@@ -7,8 +7,9 @@ sidebar:
   nav: "main"
 ---
 
-## INSA Lyon (National Institute of Applied Sciences) <img src="/pictures/insa_logo.png" alt="INSA Logo" width="30" style="vertical-align: middle; float: right; margin-left: 10px;">
+## INSA Lyon (National Institute of Applied Sciences) 
 
+![insa_logo](/pictures/insa_logo.png){: width="240px"}
 
 Lyon, France  
 *September 2022 – August 2025*  
