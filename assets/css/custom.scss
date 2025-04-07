@@ -1,0 +1,18 @@
+/* Make body text slightly smaller */
+body {
+  font-size: 0.9rem;
+}
+
+/* Optional: reduce size of h1-h3 */
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+}
+
+/* Expand main content width */
+.page, .page__content, .archive {
+  max-width: 1000px; /* or 1100px if you want */
+}
