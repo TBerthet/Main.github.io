@@ -1,18 +1,48 @@
-/* Make body text slightly smaller */
+/* Make body text a bit smaller */
 body {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
+  line-height: 1.6;
 }
 
-/* Optional: reduce size of h1-h3 */
+/* Adjust heading sizes */
+h1 {
+  font-size: 2rem;
+  margin-bottom: 0.75rem;
+}
+
 h2 {
-  font-size: 1.5rem;
+  font-size: 1.6rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
 }
 
 h3 {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
+  margin-top: 1rem;
+  margin-bottom: 0.4rem;
 }
 
-/* Expand main content width */
-.page, .page__content, .archive {
-  max-width: 1000px; /* or 1100px if you want */
+/* Expand content width */
+.page,
+.page__content,
+.archive {
+  max-width: 1000px;  /* Increase width from default 800px */
+  margin: 0 auto;     /* Keep it centered */
+}
+
+/* Adjust sidebar font size */
+.sidebar {
+  font-size: 0.9rem;
+}
+
+/* Adjust spacing between inline logos and titles */
+img.float-right {
+  float: right;
+  margin-left: 12px;
+  vertical-align: middle;
+}
+
+/* Optional: remove max-width limit on hero/banner */
+.page__hero--overlay {
+  max-width: 100%;
 }
