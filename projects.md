@@ -13,3 +13,4 @@ Paper written as a term project for the Quantum Data Science course. This paper 
  
 ![Download Term Project](assets/research_project_0.pdf)
 
+<a href="assets/research_project_0.pdf" download>⬇️ Download the PDF</a>
