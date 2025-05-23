@@ -12,5 +12,6 @@ sidebar:
 Paper written as a term project for the Quantum Data Science course. This paper explain the importance, the possible pipeline and the feasability of employing **Quantum Machine Learning algorithms to identify cancer subtypes using multiomics data.**
  
 ![Download Term Project](assets/research_project_0.pdf)
-
+<a href="https://github.com/TBerthet/Main.github.io/blob/main/assets/research_project_0.pdf" download>⬇️ Download the PDF</a>
 <a href="assets/research_project_0.pdf" download>⬇️ Download the PDF</a>
+<a href="https://raw.githubusercontent.com/TBerthet/Main.github.io/blob/main/assets/research_project_0.pdf" download>⬇️ Download the PDF</a>
