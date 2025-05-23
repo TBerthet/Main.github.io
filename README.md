@@ -14,7 +14,7 @@ In this website you can access different aspects of my profile as my educational
 
 ## Experiences
 
-## Projects
+## [Projects](/projects.md)
 
 ## Skills
 
